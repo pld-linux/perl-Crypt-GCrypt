@@ -8,7 +8,7 @@
 Summary:	Crypt::GCrypt - Perl interface to the GNU Cryptographic library
 Name:		perl-Crypt-GCrypt
 Version:	1.26
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
