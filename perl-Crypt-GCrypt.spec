@@ -52,6 +52,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Crypt/GCrypt.pm
 %{perl_vendorarch}/Crypt/GCrypt
 %dir %{perl_vendorarch}/auto/Crypt/GCrypt
-%{perl_vendorarch}/auto/Crypt/GCrypt/GCrypt.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Crypt/GCrypt/GCrypt.so
 %{_mandir}/man3/Crypt::GCrypt*.3*
